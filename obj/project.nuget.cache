@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7k3zkpiajxQjEvjqScmM9+e5yqii6VgQa/APBtRbv/YmP/iUTXHpTR4vMcfJFjFG3QD217mqY+blXf1NU8H3A==",
+  "success": true,
+  "projectFilePath": "X:\\Woopy\\APIBehaviorTest\\APIBehaviorTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcrma\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.9\\microsoft.aspnetcore.jsonpatch.5.0.9.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.9\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.9.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\selenium.support\\4.0.0-beta4\\selenium.support.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta4\\selenium.webdriver.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.10700\\selenium.webdriver.chromedriver.92.0.4515.10700.nupkg.sha512",
+    "C:\\Users\\lcrma\\.nuget\\packages\\selenium.webdriverbackedselenium\\4.0.0-beta4\\selenium.webdriverbackedselenium.4.0.0-beta4.nupkg.sha512"
+  ],
+  "logs": []
+}
